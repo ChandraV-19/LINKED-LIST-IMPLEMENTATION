@@ -67,7 +67,9 @@ Traverse the List – Print or search for elements in the list.
 Linked lists are a powerful data structure that provides dynamic memory allocation and efficient operations. They are widely used in applications requiring flexible data storage, such as dynamic memory management, graph representations, and implementing stacks and queues. Understanding linked lists helps in efficient programming and problem-solving in C.
 
 OUTPUT:
-Image
+
+![Image](https://github.com/user-attachments/assets/d2e9ecba-1171-41b8-98b6-73b98d6448bb)
+
 
 About
 No description, website, or topics provided.
